@@ -8,3 +8,9 @@ HUSAM-SinoCDCS dataset
 | stone  inscriptions | calligraphy | couplets | total |
 | ------------------- | ----------- | -------- | ----- |
 | 560                 | 744         | 855      | 2,159 |
+
+### For learning and communication purposes only, 
+
+### please do not use for business purposes. 
+
+### Commercial use will be held responsible
